@@ -101,8 +101,8 @@ The code for making predictions on my final model is located in the 28th cell of
 
 For the first image, the model is very sure that this is a bumpy road sign (probability of 0.999), and the image does contain a bumpy road sign. The top five soft max probabilities were
 
-| Probability | Prediction	| 
-|:---------------------:|:---------------------------------------------:| 
+| Probability | Prediction | Sign Name |
+|:---------------------:|:---------------------------------------------:|:---------------------------------------------:| 
 | .999 | 22 | Bumpy Road	| 
 | .001	| 29	| Bicycles crossing |
 | .000	| 25	| Road work |
@@ -111,8 +111,8 @@ For the first image, the model is very sure that this is a bumpy road sign (prob
 
 For the second image, the model is absolutely sure that this is a no entry sign (probability of 1.0), and the image does contain a no entry sign. The top five soft max probabilities were
 
-| Probability | Prediction	| 
-|:---------------------:|:---------------------------------------------:| 
+| Probability | Prediction	|  Sign Name |
+|:---------------------:|:---------------------------------------------:| :---------------------------------------------:| 
 | 1.00 | 17 | No entry	| 
 | .000	| 14	| Stop |
 | .000	|  8	| Speed limit (120km/h) |
@@ -121,8 +121,8 @@ For the second image, the model is absolutely sure that this is a no entry sign 
 
 For the third image, the model is somewhat sure that this is a yield sign (probability of 0.426), and the image does contain a yield sign. The top five soft max probabilities were
 
-| Probability | Prediction	| 
-|:---------------------:|:---------------------------------------------:| 
+| Probability | Prediction	|  Sign Name |
+|:---------------------:|:---------------------------------------------:| :---------------------------------------------:| 
 | .426 | 13 | Yield	| 
 | .237	| 10	| No passing for vehicles over 3.5 metric tons |
 | .061	|  2	| Speed limit (50km/h) |
@@ -131,8 +131,8 @@ For the third image, the model is somewhat sure that this is a yield sign (proba
 
 For the fourth image, the model is very sure that this is a stop sign (probability of 0.999), and the image does contain a stop sign. The top five soft max probabilities were
 
-| Probability | Prediction	| 
-|:---------------------:|:---------------------------------------------:| 
+| Probability | Prediction	|  Sign Name |
+|:---------------------:|:---------------------------------------------:| :---------------------------------------------:| 
 | .999 | 14 | Stop	| 
 | .001	|  3	| Speed limit (60km/h) |
 | .001	| 33	| Turn right ahead |
@@ -141,8 +141,8 @@ For the fourth image, the model is very sure that this is a stop sign (probabili
 
 For the fifth image, the model is very sure that this is a slippery road sign (probability of 0.932), and the image does contain a slippery road sign. The top five soft max probabilities were
 
-| Probability | Prediction	| 
-|:---------------------:|:---------------------------------------------:| 
+| Probability | Prediction	|  Sign Name |
+|:---------------------:|:---------------------------------------------:| :---------------------------------------------:| 
 | .932 | 23 | Slippery road	| 
 | .068	| 30	| Beware of ice/snow |
 | .000	| 29	| Bicycles crossing |
