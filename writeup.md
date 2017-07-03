@@ -148,6 +148,3 @@ For the fifth image, the model is very sure that this is a slippery road sign (p
 | .000	| 29	| Bicycles crossing |
 | .000	| 20	| Dangerous curve to the right |
 | .000 | 21 | Double curve |
-
-### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
-####1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
