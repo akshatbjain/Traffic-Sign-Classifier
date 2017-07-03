@@ -6,3 +6,6 @@ In this project, we use deep convolutional neural networks to classify traffic s
 ### Dataset
 
 Download the data set [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_traffic-signs-data/traffic-signs-data.zip). This is a pickled dataset in which the images are resized to 32x32. It contains a training, validation and test set.
+
+### Detailed description
+Please click [here](https://github.com/akshatbjain/Traffic-Sign-Classifier/blob/master/writeup.md) to get a detailed description of my approach.
